@@ -1,0 +1,5 @@
+Un objeto en la vida real puede ser un auto: tiene puertas, velocidad actual y maxima.
+Se le llama objeto en programacón ya que se le puede llamar class auto o coche y el sistema
+crea un lugarcito de la memoria para ponerlo ahi. Donde se le llamara cada vez que queramos
+la propiedad de subir/bajar de velocidad o agregar/quitar una puerta.
+
