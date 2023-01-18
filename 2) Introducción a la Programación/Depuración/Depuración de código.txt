@@ -1,0 +1,1 @@
+Buscar anomalías dentro del programa para usar un depurador.
