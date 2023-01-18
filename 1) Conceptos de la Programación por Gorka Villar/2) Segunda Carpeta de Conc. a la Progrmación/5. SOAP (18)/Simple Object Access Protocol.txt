@@ -1,0 +1,9 @@
+Que es SOAP: Simple, Object, Access, Protocol = Protocolo de Acceso Simple a Objetos.
+
+SOAP:
+        1. Protocolo
+        2. Por defecto stateless -> Puede ser stateful
+        3. Solo XML
+        4. Más recursos
+        5. HTTP + SMTP, UDP, Otros
+        6. Menos flexibilidad

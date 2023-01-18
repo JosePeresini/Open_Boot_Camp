@@ -1,0 +1,38 @@
+--------------------------------------------------------------------------------------------------------
+Desarrollo Multiplataforma
+--------------------------------------------------------------------------------------------------------
+
+Tipo de Plataformas:
+1. IOS/MacOS
+2. Windows
+3. Linux
+4. Java (Java Virtual Machine)
+5. Android
+
+Lenguajes de Desarrollo Multiplataforma:
+1. JS
+2. Java
+3. Python
+4. C#
+5. Ruby
+6. Dart
+
+Frameworks de Desarrollo Multiplataforma:
+1. Apache CORDOVA. (Apoyo/Puente/Bridge). Son para la mayoría de plataformas.
+2. React Native, NativeScript, appcelerator. (JS).
+3. Kivy, BeeWare. (Python).
+4. Flutter. (Dart).
+5. CODENAME -O N E-.  (Java).
+6. RubyMotion. (Ruby).
+
+Frameworks mas demandados:
+1. Flutter
+2. Ionic
+3. React Native
+4. Xamarin
+5. NativeScript
+6. appcelerator
+
+Conclusión:
+1. Para ser Freelancer desarrollar en Multiplataforma.
+2. Para empresas desarrollar en Nativo.

@@ -1,0 +1,19 @@
+Licenciante: el creador del software.
+Licenciatario: el que usa ese software.
+
+Contrato por el cual una persona que es el titular de los derechos de explotación
+del software, establece que otras personas puedan acceder a utilizarlo de acuerdo
+a las condiciones que él mismo preestablecio.
+
+(Foto
+
+    Software Libre 
+
+    Open Source
+
+    Propietary Software:
+                        * Freeware
+                        * Shareware
+);
+
+

@@ -1,0 +1,37 @@
+Contenedor: 
+Contiene unicamente la aplicación, con sus binarios y librerias.
+La Infraestructura, ni el OS pasan a ser del contenedor.
+
+El Container Engine almacena los datos para que el docker pueda
+abrir la app en diferentes ordenadores ya con las dependencias
+que viene dentro del mismo CONTAINER.
+
+Dentro del contenedor:
+                        1. App-Código Fuente.
+                        2. Librerias/Dependencias para ejecutar.
+                        3. Instrucciones - Sistema operativo.
+
+Mas demandados:
+                1. docker
+                2. podman
+
+Orquestación:
+                1. Deploy (Despliegue)
+                2. Scaling (Escalabilidad)
+                3. Network ()
+                4. Insight (Reportes)
+
+Mas demandados:
+                1. docker con pods
+                2. kubernetes
+                3. RED HAT (OPENSHIFT) Container Platform
+
+Rol del desarrollador:
+                        1. F (Front-End) contenedor
+                        2. B (Back-End) contenedor
+                        3. DB (Data-Base) contenedor
+                        ----------------------------
+                        |           Master         |
+                        ----------------------------
+
+

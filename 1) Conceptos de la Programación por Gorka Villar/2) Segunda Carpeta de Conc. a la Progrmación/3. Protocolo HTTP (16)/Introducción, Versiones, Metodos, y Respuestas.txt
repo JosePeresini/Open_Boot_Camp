@@ -1,0 +1,29 @@
+HTTP: Hyper Text Transfer Protocol:
+                                    * Transferencia de HTML
+                                    * CSS, JS
+                                    * Archivos, Video, Musica, etc.
+
+Prótocolo: Conjunto de reglas estandarizadas en diferentes dispositivos, lenguajes y 
+tecnologías, permitan conectarse entre sí. 
+
+Tipos de Peticiones:
+MÁS USADAS:
+                    1. GET
+                    2. POST
+                    3. PUT
+                    4. DELETE
+                    5. PATCH
+MENOS USADAS:
+                    1. TRACE
+                    2. HEAD
+                    3. OPTIONS
+                    4. CONNECT
+                    5. UPDATE
+                    6. MOVE
+                    7. MKCOL
+                    8. PROPFIND
+                    9. PROPPATCH
+                    10. MERGE
+                    11. LABEL
+
+Respuestas: https://http.cat

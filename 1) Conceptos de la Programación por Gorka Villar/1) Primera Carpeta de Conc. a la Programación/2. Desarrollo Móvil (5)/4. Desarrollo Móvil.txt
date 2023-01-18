@@ -1,0 +1,22 @@
+--------------------------------------------------------------------------------------------------------
+Desarrollo Movil
+--------------------------------------------------------------------------------------------------------
+
+1. Plataformas Móviles:
+Android 74.36%.
+IOS 22.84%.
+
+2. IDEs y Emuladores para desarrollo móvil:
+XCode (IOS). Con Swift. F
+Android Studio (Android). Con Kotlin, Java.  
+
+3. Frameworks y Librerías: 
+Ionic:
+Framework JS:   AngularJS, ReactJS, VueJS, JS
+                WebView: Emulador
+                Bridge -> Native: CORDOVA (Camara, Pantalla, etc del Celular).
+
+Xamarin: C#, .NET .
+Flutter: Dart.
+React Native: JavaScript, React.
+

@@ -1,0 +1,25 @@
+Test de cajas (Foto):
+                    1. Caja negra: enfocarse en la entrada y salida. No sabemos que hay dentro.
+                    2. Caja blanca: enfocarse mas en la misma(en la aplicación), que en entradas o salidas.
+                    3. Caja gris: Pruebas de caja blanca con negra.
+
+Tipos de Test: 
+            Test Funcional:
+                            1. Funcionalidad.
+                            2. Test de errores.
+                            3. Apoyo en los requerimientos del usuario final/cliente.
+
+            Test no Funcional:
+                                1. Rendimiento:
+                                                a. Tiempos de carga (banda ancha).
+                                                b. Stress test (muchas visitas si la app para una o 
+                                                dos usuarios se comporta de una forma. Para mil tendria
+                                                que pasar lo mismo).
+                                                c. Escalabilidad.
+                                                d. ...
+
+                                2. Accesibilidad: test para visivilidad reducida, etc.
+                                3. UX/UI: como funciona, intuitivo, etc. 
+                                4. Tests de seguridad: seguridad de la aplicación.
+
+

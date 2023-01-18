@@ -1,0 +1,23 @@
+Que es el encolamiento?: 
+                        1. Disociación de Apps. 
+                        2. Sistema asíncrono.
+
+Que es un Mensaje?:
+                    1. Información que debe ser transmitida de un punto a otro.
+                    2. Tipos de datos
+
+(Foto) Entre un Front-End y un Back-End, deberia haber un sistema de encolamiento para que no
+se colapse, si tuvieramos solo el F y el B, colapsaria de forma tal, que no podria 
+almacenar tantos envios.
+
+Beneficios:
+            1. Disociación de Apps (F -> Middle-Ware -> B).
+            2. Especializacón de Apps (podemos crear un microservicio para el 
+            encolamiento a la base de datos). 
+            3. Escalabilidad.
+            4. Procesamiento.
+            5. Evolución.
+
+Proveedores:
+            1. RabbitMQ tm.
+            2. redis.

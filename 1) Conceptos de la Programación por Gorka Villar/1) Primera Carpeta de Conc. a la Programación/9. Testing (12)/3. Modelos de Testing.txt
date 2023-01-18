@@ -1,0 +1,13 @@
+1. Testing en Waterfall (cascada o lineal), (Foto): debemos iterar las veces que sean necesarias cada uno de los 
+test para saber si pasaron la prueba.
+
+2. Testing iterativo o repetitivo(Foto): suelen durar 2 semanas cada Sprint. 
+
+3. Testing en V: baja por la izquierda hasta llegar abajo de todo. Una vez que empezamos a subir por
+la derecha se van chequeando con las pruebas iniciales de la izquierda pasando por cada test.
+
+4. Testing en Espiral:
+                        1. Definir objetivos y soluciones.
+                        2. Analisis de riesgo y resolver las soluciones.
+                        3. Desarrollar la version del producto.
+                        4. Diseño, Coding, Testing, Release(Despliegue de la app).

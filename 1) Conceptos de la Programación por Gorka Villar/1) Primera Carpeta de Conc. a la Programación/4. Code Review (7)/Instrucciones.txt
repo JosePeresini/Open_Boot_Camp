@@ -1,0 +1,17 @@
+GIT Release (Pull Request): 
+1. Crea una rama(Branch).
+2. Crea un Pull Request (edita código).
+3. Cuando queremos mandar a producción, 
+pasa por un code review, que hace los test
+necesarios y si esta todo OK GO. 
+4. Pasa a producción.
+
+Plataformas Pull Request:
+CodeFactor
+GitLab
+sonarqube
+GitHub
+SMARTBEAR Collarborator
+Codestriker Web-based code reviewing
+Gerrit
+

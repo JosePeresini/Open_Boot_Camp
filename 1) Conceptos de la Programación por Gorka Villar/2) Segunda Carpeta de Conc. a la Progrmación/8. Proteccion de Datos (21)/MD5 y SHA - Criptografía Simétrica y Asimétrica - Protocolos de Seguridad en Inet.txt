@@ -1,0 +1,12 @@
+Hash Inseguro
+
+MD5: Pág Oficial: http://www.MD5.CZ
+
+Hash Seguro
+
+SHA-256: https://emn178.github.io
+
+Protocolos de Seguridad en Inet: (http's'://...)
+                                * SSL/TLS
+                                * SSH
+                                * PGP

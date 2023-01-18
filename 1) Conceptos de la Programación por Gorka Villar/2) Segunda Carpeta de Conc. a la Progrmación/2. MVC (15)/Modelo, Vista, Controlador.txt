@@ -1,0 +1,22 @@
+Que es MVC?: Es un patrón de diseño.
+----------
+Cual es la Función del Modelo?: Acceder y manipular los datos (acceso a una base de datos).
+----------
+Cual es la Función de la vista?: Mostrar los datos del modelo y proporcionar la 
+interactividad con el usuario. (Mostrar datos en una interface).
+----------
+Cual es la Función del Controlador?: Coordinar al modelo y a la vista.
+----------
+
+HISTORIA del MVC:
+                    1. Introducido a los 70.
+                    2. Popularizado a los 88.
+                    3. Patrón de diseño más utilizado en 
+                    aplicaciones Web (MVC).
+                    4. Páradigmas derivados:
+                                            a. HMVC: Modelo Vista Controlador Gerarquico.
+                                            b. MVA: Modelo Vista Adaptador.
+                                            c. MVP: Modelo Vista Presentador.
+                                            d. MV VM: Modelo Vista - Vista Modelo.
+                                            e. ...
+

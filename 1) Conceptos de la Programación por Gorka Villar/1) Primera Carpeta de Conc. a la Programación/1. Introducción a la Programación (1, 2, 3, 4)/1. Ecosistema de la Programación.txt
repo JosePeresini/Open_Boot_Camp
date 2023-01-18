@@ -1,0 +1,197 @@
+--------------------------------------------------------------------------------------------------------
+1. Lenguaje de programacion:
+--------------------------------------------------------------------------------------------------------
+
+Tiene reglas gramaticales, se escriben con instrucciones en forma de algoritmos y controlan el 
+comportamiento del sistema.
+
+--------------------------------------------------------------------------------------------------------
+2. Tipos de paradigmas:
+--------------------------------------------------------------------------------------------------------
+
+Codigo en JS:
+const listaProgramadores = ['Manuel','Martín','Alex','José',];
+
+let nombres = [];
+
+--------------------------------------------------------------------------------------------------------
+Imperativos VS Declarativos
+--------------------------------------------------------------------------------------------------------
+
+/* + Paradigma Imperativo:
+	- Es el mas antiguo.
+	- Secuencia de instrucciones.
+	- Define el paso a paso.	
+	- Ej: 1 receta de cocina en secuencia con el paso a paso.
+
+//Programación imperativa:
+listaProgramadores.foreach((programador, posicion) => {
+	nombre[posicion] = programador;
+})
+
+--------------------------------------------------------------------------------------------------------
+
++ Paradigma Declarativo:
+	- Se centra en el que, en lugar del cómo.
+	- Ej: Resultado final, una web ya creada.
+
+//Programacón declarativa:
+nombres = [...listaProgramadores];
+
+--------------------------------------------------------------------------------------------------------
+
++ Ventajas e inconvenientes de ellos:
+	- En el imperativo: Facil de leer por que va linea por linea agregando codigo,
+	pero con mucho código. Dificil de mantener.
+	- En el declarativo: Facil de mantener y dificil de entender.
+
+--------------------------------------------------------------------------------------------------------
+Funcionales VS Procedimentales
+--------------------------------------------------------------------------------------------------------
+
++ Paradigma Funcional:
+	- Se usa para funciones complejas que requeriremos a lo largo de un proyecto, para despues
+	utilizarlas las veces que sean necesarias.
+
+//Suma Funcional:
+
+//1 - Definir la función:
+
+function sumarLosDiezPrimerosEnteros() {
+	let suma = 0;
+
+	for(let i = 1; i <= 10; i++) {
+	suma = suma + i;
+	}
+	return suma;
+}
+
+//2 - Utilizar la función:
+
+let suma = sumarLosDiezPrimerosEnteros(); //dentro del parentesis podemos pasarles parametros (numeros).
+
+//suma = 55
+
+--------------------------------------------------------------------------------------------------------
+
++ Paradigma Procedimental:
+	- Se usa para usarla una unica vez, a menos que queramos volver a utilizarla tendremos que
+	volver a reescribir el mismo código.
+
+//Suma Procedimental:
+
+let suma = 0;
+
+for(let i = 1; i <= 10; i++) {
+	suma = suma + i;
+}
+
+//suma = 55
+
+--------------------------------------------------------------------------------------------------------
+División por Niveles
+--------------------------------------------------------------------------------------------------------
+
+	0- Lenguaje de maquina: 1 y 0.
+
+--------------------------------------------------------------------------------------------------------
+
+	1- Lenguaje Ensamblador: es una abstraccion del lenguaje de maquina. Para crear sumas, restas,
+etc.
+
+--------------------------------------------------------------------------------------------------------
+
+	2- Lenguaje de Bajo Nivel: el punto 0 y 1 estan relacionados directamente con el hardware y la 
+	arquitectura.
+
+--------------------------------------------------------------------------------------------------------
+
+	3- Lenguaje de Medio-Bajo Nivel: C/C++ son los mas antiguo y el mas conocido, capacidades de 
+alto nivel, capacidades de bajo nivel(ACCESO A REGISTROS DE MEMORIA).
+
+--------------------------------------------------------------------------------------------------------
+
+	4- Lenguaje de Medio-Alto Nivel: Java/Php/C#/JavaScript/Python Lenguajes de programación 
+modernos.
+
+--------------------------------------------------------------------------------------------------------
+
+	5- Lenguaje de Alto Nivel: Estan basados en lenguajes de programación de medio nivel. Como 
+Frameworks: mas facil de programar en base a librerias. Con mas caracteristicas.
+
+--------------------------------------------------------------------------------------------------------
+3. Proceso de Conversión:
+--------------------------------------------------------------------------------------------------------
+
+Traductor: 
+
+	- Compilador: 
+	1) Es un programa creado por nosotros.
+	2) Tiene un compilador (puede mostrar errores).
+	3) Tiene una SALIDA.
+
+	- Intérprete:
+	1) Es un programa creado por nosotros.
+	2) Lo esta intérpretando en el momento.
+	3) Tiene una SALIDA (Muestra mensajes de error).
+
+--------------------------------------------------------------------------------------------------------
+4. Desarrollo de Código:
+--------------------------------------------------------------------------------------------------------
+
+Entornos de Desarrollos:
+
+Visual Studio Code, Atom, Sublime-Text, Py-Charm, Notepad++.
+
+Control de Versiones:
+
+CVS (Concurrent Version System): Sistema antiguo.
+
+SVN (SubVersion)
+
+Git
+
+GitHub (Publico) & GitLab (Privado)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

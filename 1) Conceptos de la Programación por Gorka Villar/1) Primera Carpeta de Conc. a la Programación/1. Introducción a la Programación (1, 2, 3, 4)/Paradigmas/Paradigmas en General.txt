@@ -1,0 +1,17 @@
+--------------------------------------------------------------------------------------------------------
+Paradigmas de Programación: formas de programar.
+--------------------------------------------------------------------------------------------------------
+
+	- Programación Estructurada: Secuencia Lineal o Diagrama de Flujo. 
+	
+	- Programación Orientada a Objetos: Se relacionan entre sí:
+	4 conceptos claves:
+
+	*Abstracción.
+	*Encapsulamiento: atributos y metodos.
+	*Herencia: hereda la clase de los padres.
+	*Polimorfismo: una misma función puede tener mismos metodos en función de sus atributos.
+
+	- Programación Funcional: 
+	*Funciones puras: en esta no debe cambiar el resultado final, siempre sera el mismo.
+	*Funciones sin estado -> Recursividad.

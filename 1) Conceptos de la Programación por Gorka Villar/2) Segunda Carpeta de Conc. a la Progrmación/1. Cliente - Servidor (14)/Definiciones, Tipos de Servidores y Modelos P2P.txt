@@ -1,0 +1,19 @@
+Definición cliente - servidor: Es un ambiente donde el cliente, desde su dispositivo se 
+conecta atravez de internet a un servidor, lo que halla buscado y le devuelve atraves de 
+internet al mismo dispositivo lo que encontró en el servidor.
+
+Estructura: 
+            1. Primer nivel
+            2. Segundo nivel
+            3. Tercer nivel
+            4. N Niveles
+
+Tipos de servidores (Apps):
+                            1. Web Servers ()
+                            2. File Servers
+                            3. Email Servers
+                            4. VPN (Virtual point network) Servers
+                            5. Proxy Servers
+
+Modelo Peer to Peer (P2P): Verificacion de cada servidor. Se chequean entre ellos sean
+iguales.

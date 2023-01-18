@@ -1,0 +1,55 @@
+--------------------------------------------------------------------------------------------------------
+Desarrollo WEB
+--------------------------------------------------------------------------------------------------------
+
+* Front-End: Cara Visible en una página Web - Cliente (HTML-CSS-JS-TS-AJAX).
+
+* Back-End: Lo que no se ve, el transverso - Servidor (Java-Ruby-Php-Python-C#-ASP.NET-perl-NodeJS).
+
+* CMS (Content Managemente System): funciones prefabricadas sin la necesidad de programar. Programados en Php + JS(Wordpress-Joomla!-Drupal-Magento-PrestaShop). Programados en HTML + CSS + JS (Shopify). Programados en Python + JS(odoo es un CRM, Client Relationship Manager). 
+
+* Frameworks: 
+
+Cliente:
+ 1- AngularJS, VueJS, ReactJS. Usan JS.
+ 2- laravel. Usa Php.
+ 3- Spring. Usa Java.
+ 4- .NET. Usa C#.
+ 5- Flask, django. Usa Python.
+
+Servidor:
+ 1- ExpressJS, ADONIS. Usan JS.
+
+Pruebas de test Unitarios:
+ 1- Jest. JavaScript.
+ 2- JUnit5. Java.
+ 3- PHPUnit. Php.
+ 4- n unit, xUnit.net. Usa .NET.
+ 5- pytest. Python.
+
+* Librerías:
+
+HTML:
+ 1- jQuery (DOM - Document Object Model).
+ 2- React (DOM).
+ 3- Bootstrap (CSS)
+
+ Servidores Web:
+ - Apache, NNGINX, OpenLiteSpeed, Apache Tomcat, NodeJS, Microsoft IIS. Se Usan
+ para Web, FTP, Correo electronico, Base de datos.
+  
+Navegadores:
+ Edge, Safari, Chrome, Brave, FireFox, Opera
+
+Stacks (Conjunto de tecnologías para un proyecto):
+'PHP'
+LAMP(Linux, Apache, MySQL, PHP).
+WAMP(Windows, Apache, MySQL, PHP o perl, o Python).
+XAMPP((X)Multiplataforma, Apache, MySQL, perl, Python).
+
+'JavaScript'
+MERN(MongoDB, ExpressJS, ReactJS, NodeJS).
+MEAN(MongoDB, ExpressJS, AngularJS, NodeJS).
+MEVN(MongoDB, ExpressJS, VueJS, NodeJS).
+PERN(PostgressSQL, ExpressJS, ReactJS, NodeJS).
+

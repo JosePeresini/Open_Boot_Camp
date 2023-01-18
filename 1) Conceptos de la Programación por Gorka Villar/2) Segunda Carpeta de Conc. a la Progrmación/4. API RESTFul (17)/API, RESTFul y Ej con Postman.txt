@@ -1,0 +1,8 @@
+Que es API: Aplication Programming Interface.
+
+Que es CRUD: Create,     Read,       Update,      Delete.
+            addUser()||getUsers()||editUser()||deleteUser().
+
+Que es REST: REpresentational, State, Transfer "(Arquitectura de comunicación)".
+
+API GRATIS, para usar con POSTMAN: https://pokeapi.co/api/v2/pokemon/

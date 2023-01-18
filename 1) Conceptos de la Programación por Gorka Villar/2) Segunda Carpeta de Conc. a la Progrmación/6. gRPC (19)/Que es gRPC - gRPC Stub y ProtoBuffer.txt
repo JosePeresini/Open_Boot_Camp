@@ -1,0 +1,14 @@
+Pag Oficial: https://grpc.io/
+Que es gRPC: 
+Google Remote Procedure Call:
+                            1. Tecnología de transmisión de datos SERIALIZADA
+                            2. Creado por Google
+                            3. Bi-directional streaming
+                            4. Multilenguaje y plataforma
+
+Introducción a gRPC: https://grpc.io/docs/what-is-grpc/introduction/
+
+Stub: Parte de la app que proporciona el mismo método del gRPC.
+
+
+

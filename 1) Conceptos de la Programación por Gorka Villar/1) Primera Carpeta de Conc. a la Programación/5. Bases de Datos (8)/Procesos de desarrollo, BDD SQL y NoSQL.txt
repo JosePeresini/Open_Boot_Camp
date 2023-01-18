@@ -1,0 +1,70 @@
+Sistema de almacenamiento de información. Formato entre tablas.
+
+---------------------------------------------------------------------------------------------------------
+
+* Diseño Conceptual: 
+Usuarios:
+ID -> Clave Primaria
+nombre
+apellido
+email
+edad
+lenguaje_Id -> Clave Secundaria
+asignatura_Id -> Clave Secundaria
+
+Lenguajes:
+ID -> Clave Primaria
+nombre_Lenguaje
+fecha_Lenguaje
+
+Asignatura:
+ID -> Clave Primaria
+nombre
+nombre_Profesor
+numero_Horas
+
+Normalización
+---------------------------------------------------------------------------------------------------------
+
+* Diseño Lógico: 
+Usuarios:
+ID -> Clave Primaria
+nombre -> VARCHAR(32)
+apellido -> VARCHAR(64)
+email -> VARCHAR(64)
+edad -> INT
+lenguaje_Id -> Clave Secundaria -> INT
+asignatura_Id -> Clave Secundaria -> INT
+
+Lenguajes:
+ID -> Clave Primaria -> INT
+nombre_Lenguaje -> VARCHAR(32)
+fecha_Lenguaje -> DATE
+
+Asignatura:
+ID -> Clave Primaria -> INT
+nombre -> VARCHAR(32)
+nombre_Profesor -> VARCHAR(32)
+numero_Horas -> DOUBLE
+
+---------------------------------------------------------------------------------------------------------
+
+* Diseño Físico: Diagrama de Flujo.
+
+---------------------------------------------------------------------------------------------------------
+
+SQL: Relacionales (Entre tablas).
+
+MySQL
+PostgreSQL
+MariaDB
+ORACLE DATABASE
+
+NoSQL (No Relacionales):
+
+MongoDB, Cloud Firestore (Documentos).
+cassandra, redis (Key-Value).
+GraphQL (Grafos)
+
+
+

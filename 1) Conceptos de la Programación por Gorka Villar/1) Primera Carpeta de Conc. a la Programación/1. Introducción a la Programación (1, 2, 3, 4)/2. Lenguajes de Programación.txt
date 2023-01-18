@@ -1,0 +1,125 @@
+--------------------------------------------------------------------------------------------------------
+1. Lenguajes de Programación:
+--------------------------------------------------------------------------------------------------------
+
+1- Python: 
+	https://www.python.org/
+	El más utilizado actualmente.
+	Frameworks para desarrollo WEB: Django o Flask.
+	Facil de aprender y utilizar.
+	L. Intérpretado.
+
+2- Java: 
+	https://www.java.com/es/
+	Se utiliza para apps webs.
+	Se utiliza para Apps android. Android Studio.
+	Facil de aprender.
+
+3- JavaScript:
+	https://www.ecma-international.org/
+	Utilizado para apps WEBS y páginas webs.
+	Las nuevas empresas usan NodeJS para sus servidores.
+	Lo usan Startups.
+	Mas facil de aprender que Java.
+
+4- TypeScript:
+	https://www.typescriptlang.org/
+	Basado en JavaScript.
+	Creado y actualizado por Microsoft.
+	Aplica a los tipos de JavaScript.
+	Es mas complejo que JavaScript.
+
+5- C#:
+	https://learn.microsoft.com/es-ES/dotnet/csharp/
+	Derivado de C/C++.
+	Versatil: Back-End, Videojuegos y Apps de Microsoft.
+	Creación de videojuegos con Unity.
+	Dificultad moderada.
+
+6- ASP .NET:
+	https://dotnet.microsoft.com/en-us/apps/aspnet
+	Creado por Microsoft.
+	Creado para sitios Web, Apps Webs y Servicios Web.
+	Dificultad moderada.
+
+7- PHP:
+	https://www.php.net/
+	Para Back-End. Servidor más utilizado.
+	Compite con JavaScript y Python.
+	Facil de aprender.
+	Apoyo de la comunidad.
+	Webs lentas.
+
+8- HTML (HyperText Markup Language, Lenguaje de marcado de Hipertexto estatico):
+	https://www.w3.org/	
+	Regulado por W3C (World Wide Web Consortium).
+	Lenguaje deben interpretar todos los Navs.
+	Crear sitios y apps webs estatico.
+	Facil de programar.
+
+9- CSS (Cascading Style Sheets, Estilos Webs en Cascada).:
+	https://www.w3.org/
+	Forma parte de la triada HTML, CSS, JS.
+	Diseño grafico.
+	Aplica los estilos de una pagina Web en HTML.
+
+10- Ajax (Asynchronous JavaScript and XML):
+	https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX
+	Técnica para crear Webs Asícronas.
+	Es una extensión de JS para interactuar con Servicios Externos.
+
+11- Ruby:
+	https://www.ruby-lang.org/en/
+	Se utiliza para servidores.
+	Ruby y Ruby on Rails no son lo mismo.
+	Twitch, Twitter, Kickstarter, Soundcloud, etc.
+	Facil de aprender.
+
+12- Perl:
+	https://www.perl.org/
+	Utilizado originalmente en la manipulación de texto.
+	Utilzado para Admin. de Sist., desarrollo web, desarrollo de GUI(Graphic User Interface), etc.
+	Complejidad moderada.
+
+13- Dart:
+	https://dart.dev/
+	Desarrollado inicialmente por Google.
+	Se utiliza para Webs, Servidores y Apps Moviles.
+	Parecido a C.
+	Dificil de aprender.
+	Comunidad pequeña.
+
+14- Kotlin:
+	https://kotlinlang.org/
+	Desarrollado y parecido a Java, pero mas actualizado.
+	Más facil de utilizar que Java (Output - JAR).
+	Interactua con código Java.
+	Se utiliza para crear Apps Moviles.
+
+15- Swift:
+	https://developer.apple.com/
+	Apps unicamente para IOS.
+	Respaldado por Apple con PROS y CONTRAS.
+	Soporte solo a partir de IOS 7.0.
+
+--------------------------------------------------------------------------------------------------------
+LENGUAJES MAS DEMANDADOS ACTUALMENTE EN EL 2022:
+--------------------------------------------------------------------------------------------------------
+
+JS: 64.96%
+HTML/CSS: 56.07%
+Python: 48.24%
+SQL: 47.08%
+Java: 35.35%
+NodeJS: 33.91%
+TS: 30.19%
+C#: 27.86%
+Bash/Shell: 27.13%
+C++: 24.31%
+PHP: 21.98%
+C: 21.01%
+PowerShell: 10.75%
+Go: 9.55%
+Kotlin: 8.32%
+Rust: 7.03%
+Ruby: 6.75%

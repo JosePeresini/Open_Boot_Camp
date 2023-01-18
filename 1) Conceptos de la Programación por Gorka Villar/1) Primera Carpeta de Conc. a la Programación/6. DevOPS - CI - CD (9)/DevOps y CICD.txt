@@ -1,0 +1,20 @@
+DevOps 
+
+"Dev"lopment (Desarrollo de Software).
+
+It "Op"eration"s" (Operaciones de IT).
+
+Metodología de Desarrollo de Software -> CI / CD
+
+CI - Continuous Integration (integración continua) -> Publicar el código (merge, pull, push).
+
+CD - Continuous Deployment -> Desplegar la app a producción.
+
+Soporte:
+
+ANSIBLE
+HELM
+Jenkins
+GitLab CI
+GitHub Actions
+Bitbucket Pipelines
