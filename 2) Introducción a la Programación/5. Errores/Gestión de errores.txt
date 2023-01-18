@@ -1,0 +1,16 @@
+Gestión de errores:
+                    1. Las variables tiene que ser a modo de informacion del programa que vamos a hacer.
+                    2. Los comentarios ayudan a otros programadores al igual que a uno mismo a que despues en el futuro no tengamos errores.
+                    Pero debemos hacerlo mas general. No hacerlo linea por linea. Sino lo que hace el mismo programa.
+                    3. En los bucles esta aceptado que introduzcamos 'i', 'j', 'k'.
+
+Errores del programador que si se debe de hacer:
+                        1. Consistencia en el código. Tiene que haber legibilidad para uno y otros programadores.
+                        2. El programador debe usar control de versiones.
+                        3. El programador debe usar los codigos cortos.
+                        4. Si hay un codigo que tiene un error se debe de depurar. Y no haciendo prints sino con una herramienta.
+                        5. Se debe de crear funciones cortas e identificables. 
+
+Repercusión de los errores:
+                            1. No se debe de hacer conversiones de tipos de datos.
+                            2. No se debe hacer overFlow
