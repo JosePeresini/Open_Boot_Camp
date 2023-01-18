@@ -1,0 +1,89 @@
+Tipo de datos:
+
+Primitivos:
+
+character = 'a' - '9' - '~'; //Debemos referenciarlo entre comillas simples. Character.
+
+https://www.asciitable.com/
+
+text = "Hola"; Debemos referenciarlo entre comillas dobles. String.
+
+-------------------------------------------------------------------------------------
+
+Numericos:
+
+number = 1234
+numberFloat = 1234.5678
+
+-------------------------------------------------------------------------------------
+
+Booleanos:
+
+booleans = True, False, true, false, 1, 0.
+
+-------------------------------------------------------------------------------------
+
+Arrays:
+
+arrayChar = ['a','b','c','d'];
+arrayString["Hola","adios"];
+arrayNumber = [0,1,2,3,4,5,6];
+arrayNumberFloat = [1.1,4.4,3.14];
+
+arrayInvalid = ['a',"text",9,3.1];
+
+arrayArrays = [
+    [1,2,3];
+    [4,5,6];
+]
+
+-------------------------------------------------------------------------------------
+
+Tuplas:
+
+
+tupla = (a,b,c);
+arrayAsociativo [
+    "clave" => valor;
+]
+
+arrayCapitalPais = [
+    "Ucrania": "Kiev",
+    "España": "Madrid",
+]
+
+-------------------------------------------------------------------------------------
+
+Objeto en Java:
+
+class Caja {
+    String Color = "blanco";
+    String Forma = "rectangular";
+    int Largo = 20;
+}
+
+-------------------------------------------------------------------------------------
+
+Consejos y curiosidades:
+
+name = "Victor" + 0;
+
+arrayCharacter = ['V', 'i', 'c', 't', 'o', 'r', 0];
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

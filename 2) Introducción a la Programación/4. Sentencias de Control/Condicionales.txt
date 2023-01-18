@@ -1,0 +1,68 @@
+LÓGICA :
+        * "Y" &&
+        * "O" ||
+
+COMPARATIVAS:
+            * "MAYOR QUE" >
+            * "MENOR QUE" <
+            * "MAYOR O IGUAL QUE" >=
+            * "MENOR O IGUAL QUE" <=
+            * "IGUAL QUE" ==
+            * "DIFERENTE QUE" !=
+
+BUCLES: PARA RECCORRER ELEMENTOS.
+
+
+        * contador = 10 //variable
+
+while:
+        
+        * while (contador > 0) { //mientras que contador sea mayor que 0 haz esto.
+            console.log(contador) //imprimi por pantalla contador
+            contador = contador - 1 // si la variable es 10 y el while piensa que contador es 
+                                    // mayor que 0 va a imprimir 10,9,8,7,6,5,4,3,2,1.
+        }
+        
+        var contador = 10
+
+        MIENTRAS(While) (CONTADOR SEA MAYOR QUE 10)
+                RESTA UNO AL CONTADOR
+        
+
+Do While:
+        
+        do  {
+            console.log(contador);
+            contador = contador - 1;
+        } while (contador > 10)
+
+        var contador = 10
+
+        HAZ(DO)
+                RESTA UNO AL CONTADOR
+        MIENTRAS(While) (CONTADOR SEA MAYOR QUE 10)
+
+        Se ira repitiendo true hasta que de un false.
+
+For:
+
+        "PARA(FOR)" (INICIALIZACIÓN;COMPARACIÓN;ACCION)
+        "PARA" (; CONTADOR MAYOR QUE 0;CONTADOR IGUAL A CONTADOR - 1);
+                IMPRIME EL VALOR DE LA VARIABLE CONTADOR
+
+        for(var contador = 0; contador <= 10; contador = CONTADOR + 1) {
+                console.log(contador);
+        }
+
+        VAR VALORES= | 10 | 20 | 30 | 40 | 50
+                        0    1    2    3    4
+
+        PARA (POSICION_EN_ARRAY = 0; POSICION_EN_ARRAY < LONGITUD_DEL_ARRAY; POCISION = POCISION + 1) {
+                IMPRIME EL VALOR DE LA POCISION ACTUAL EN EL ARRAY;
+        }
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+Historia:   - empezo en 1940 primer sistema de codificacion Eniak.
+            - procesamiento de 0 y 1 hasta 1943.
+            - se invento fortran, list, y cobol para bancos, seguros, etc. entre 1950 a 1970.
+            - BCPL es muy parecido a 'C' empezaron con este lenguaje.
+            - manipula el mismo ordenador y es de alto nivel.
+            - tenia carencias
+            - dieron lugar a otros lenguajes 'Pascal' sencillo y facil de aprender
+            - pero se esta usando en poco.
+            - en 1980 aparecieron los lenguajes de nicho 'ada' (hace pocas cosas), 
+            - 'perl' (ficheros de txt), 
+            - 'toolkit, tcl' de 1988
+            - 1990 internet combinaba proposito general y lenguajes de nicho
+            - 'Java' sistema enbebido. Sist. pequeño. se penso para domotica
+            - lavadoras, heladeras. aplets le daba funcionalidad a la pag. 
+            - se hacia con Java. 'Python', 'PHP', 'Ruby', 'Lua'.
+            - 2000 a 2022 'ActionScrpts (Flash)' (dibujos 2D y a webs o banners) 
+            - fue el precursor orientados a WEBS y ademas fue lo que dio pie a 
+            - HTML y JS se cohesionaran un poco mas.
+            - 'C# o .NET', 'Go(back)', 'Swifft (app movile)', 'Scala y server jule'
+            - 'Scratch (super intuitiva)'.
