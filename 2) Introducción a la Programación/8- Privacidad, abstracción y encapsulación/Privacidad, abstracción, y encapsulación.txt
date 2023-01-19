@@ -1,0 +1,110 @@
+Encapsulamiento:
+
+PSEUDO CÓDIGO:
+
+CLASE MICLASE
+    PRIVADA PROPIEDAD1;
+    PRIVADA PROPIEDAD2;
+
+    FUNCION SETTERPROPIEDAD1(TEXTO valor)
+        ESTA_CLASE.PROPIEDAD1 = valor;
+
+    FUNCION GETTERPROPIEDAD1() TEXTO
+        DEVUELVE EL VALOR DE ESTA_CLASE.PROPIEDAD1;
+    
+-PROGRAMA PRINCIPAL-
+    VAR unaclase INSTANCIA DE MICLASE
+
+    unaclase.PROPIEDAD1 = valor
+    IMPRIME unaclase.PROPIEDAD2
+
+----------------------------------------------------------------------------------------------
+
+Java: 
+
+1ERA Parte:
+
+public class Main {
+    public static void main (String[] args) {
+        Vehiculo veiculo = new Vehiculo();
+        veiculo.tipo = "Coche";
+        System.out.println(veiculo.tipo)
+    }
+}
+
+class veiculo {
+    public String tipo;
+}
+
+
+----------------------------------------------------------------------------------------------
+
+2DA Parte:
+
+public class Main {
+    public static void main (String[] args) {
+        Vehiculo vehiculo = new Vehiculo();
+        vehiculo.setTipo("Coche");
+        String tipo = vehiculo.getTipo();
+        System.out.println(tipo);
+    }
+}
+
+class veiculo {
+    private String tipo;    
+
+
+public void setTipo(String tipo) {
+        this.tipo = tipo;
+    }
+    
+    public String getTipo() {
+        return this.tipo;
+    }
+}
+----------------------------------------------------------------------------------------------
+
+3ERA Parte:
+
+public class Main {
+    public static void main (String[] args) {
+        Vehiculo coche = new Vehiculo();
+        coche.setTipo("Coupe");
+
+        Vehiculo moto = new Vehiculo();
+        moto.setTipo("Scotter");
+
+        System.out.println(coche.getTipo());
+        System.out.println(moto.getTipo());
+    }
+}
+
+class Vehiculo {
+        private String tipo;
+
+    public void setTipo(String tipo) {
+        this.tipo = tipo;
+    }
+
+    public String getTipo() {
+        return this.tipo;
+    }
+}
+
+----------------------------------------------------------------------------------------------
+
+Abstracción:
+
+PSEUDO CÓDIGO:
+
+CLASE ABSTRACTA VEHICULO
+    PRIVADA TIPO;
+    PRIVADA SONIDO;
+
+    FUNCION ABSTRACTA SETTERSONIDO(TEXTO sonido)
+    FUNCION ABSTRACTA GETTERSONIDO() TEXTO
+
+CLASE COCHE
+    FUNCION SETTERSONIDO(TEXTO sonido)
+    FUNCION GETTERSONIDO() TEXTO
+    
