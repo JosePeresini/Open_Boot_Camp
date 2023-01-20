@@ -8,13 +8,13 @@ public class Main {
         System.out.println(nombre);
 
         Persona age = new Persona();
-        name.setEdad(32);
-        int edad = name.getEdad();
+        age.setEdad(32);
+        int edad = age.getEdad();
         System.out.println(edad);
 
         Persona phone = new Persona();
-        name.setTelefono("+54 3525 418714");
-        String telefono = name.getTelefono();
+        phone.setTelefono("+54 3525 418714");
+        String telefono = phone.getTelefono();
         System.out.println(telefono);
     }
 }
