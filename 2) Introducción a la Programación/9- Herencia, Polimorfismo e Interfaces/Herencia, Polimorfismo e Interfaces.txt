@@ -1,0 +1,44 @@
+PSEUDOCÓDIGO:
+
+CLASE VEHICULO
+    PRIVADA VELOCIDAD MAXIMA;
+
+FUNCION diHola() {
+    IMPRIME "Hola"
+}
+
+CLASE MOTOR
+    PRIVADA TIPOGASOLINA;
+
+
+CLASE COCHE HEREDA DE VEHICULO Y DE MOTOR
+    (heredada) VELOCIDAD MAXIMA;
+    (heredada) TIPOGASOLINA;
+    NUMERO_DE_PUERTAS;
+
+    (heredada) FUNCION diHola() 
+        IMPRIME "Hola"
+
+FUNCION SETTERNUMERODEPUERTAS(INTEGER puertas)
+    ESTA_CLASE.NUMERO_DE_PUERTAS = puertas;;
+
+FUNCION GETTERNUMERODEPUERTAS() INTEGER
+    DEVUELVE ESTA_CLASE.NUMERO_DE_PUERTAS;
+
+CLASE COUPE HEREDA DE COCHE
+    (heredada) VELOCIDAD MAXIMA;
+    (heredada) TIPOGASOLINA;
+    (heredada) NUMERO_DE_PUERTAS;
+
+    (heredada) FUNCION diHola() 
+        IMPRIME "Hola"
+
+    (heredada) FUNCION SETTERNUMERODEPUERTAS(INTEGER puertas)
+        ESTA_CLASE.NUMERO_DE_PUERTAS = puertas;;
+
+    (heredada) FUNCION GETTERNUMERODEPUERTAS() INTEGER
+        DEVUELVE ESTA_CLASE.NUMERO_DE_PUERTAS;
+
+----------------------------------------------------------------------------------------------
+
+
