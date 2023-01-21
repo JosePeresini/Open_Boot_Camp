@@ -41,4 +41,46 @@ CLASE COUPE HEREDA DE COCHE
 
 ----------------------------------------------------------------------------------------------
 
+Herencia Jerarquica:
+
+CLASE ALFABETO
+    CLASE A HEREDA DE ALFABETO
+        CLASE UNO HEREDA DE A
+        CLASE DOS HEREDA DE A
+
+    CLASE B HEREDA DE ALFABETO
+        CLASE PERRO HEREDA DE B
+        CLASE GATO HEREDA DE B
+
+    CLASE C HEREDA DE ALFABETO
+        CLASE COCHE HEREDA DE C
+        CLASE MOTO HEREDA DE C
+
+----------------------------------------------------------------------------------------------
+
+Herencia Hibrida:
+
+CLASE A
+    CLASE B HEREDA DE A
+    CLASE C HEREDA DE A
+
+CLASE D HEREDA DE B Y DE C
+
+----------------------------------------------------------------------------------------------
+
+POLIMORFISMO: 
+
+CLASE VEHICULO
+    PRIVADA VELOCIDAD MAXIMA;
+
+FUNCION diHola() 
+    IMPRIME "Hola"
+
+CLASE COCHE HEREDA DE VEHICULO
+    (heredada) VELOCIDAD MAXIMA;
+    
+    (heredada pero se sobreescribe la misma función con diferentes tipos de datos) FUNCION diHola() 
+        IMPRIME "Soy un robot y se contar del 1 al 10"
+
+     
 
