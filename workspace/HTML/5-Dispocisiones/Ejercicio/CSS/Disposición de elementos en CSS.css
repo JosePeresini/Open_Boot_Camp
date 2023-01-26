@@ -1,0 +1,18 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+/* 
+todo lo hace por defecto! al wrap
+*/
+.galeria {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+
+.imagen-galeria {
+    width: 300px;
+    margin: 3px;
+}
+
