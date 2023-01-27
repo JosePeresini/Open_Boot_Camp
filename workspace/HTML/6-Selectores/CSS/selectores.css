@@ -1,0 +1,11 @@
+.contenedor p {
+    color: green;
+}
+
+body section .main .contenedor p {
+    color: greenyellow;
+}
+
+.contenedor button {
+    background-color: yellow;
+}
