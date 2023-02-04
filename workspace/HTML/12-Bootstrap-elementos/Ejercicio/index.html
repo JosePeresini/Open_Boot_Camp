@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Elementos de Interés en Bootstrap</title>
+		<link
+			href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
+			rel="stylesheet"
+			integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD"
+			crossorigin="anonymous" />
+	</head>
+	<body>
+		<div class="container py-4">
+			<div class="bg-light p-5 rounded-3">
+				<div class="container-fluid py-5">
+					<h1 class="display-5 fw-bold">Custom Jumbotron</h1>
+					<p class="col-md-8 fs-5">
+						Using a series of utilities, you can create this jumbotron, just
+						like the one in previous versions of Bootstrap. Check out the
+						examples below for how you can remix and restyle it to your liking.
+					</p>
+					<button
+						class="btn btn-primary btn-lg"
+						data-bs-toggle="modal"
+						data-bs-target="#modal-ejemplo">
+						Example Button
+					</button>
+					<div class="modal fade" id="modal-ejemplo" data-bs-backdrop="static">
+						<div class="modal-dialog">
+							<div class="modal-content">
+								<div class="modal-header">Titulo</div>
+								<div class="modal-body">Mensaje</div>
+								<div class="modal-footer">
+									<button
+										class="btn btn-outline-primary"
+										data-bs-dismiss="modal">
+										X
+									</button>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<hr />
+			<div
+				class="py-3 bg-info bg-opacity-10 border border-2 border-info rounded">
+				<label for="nombre" class="form-label" name="nombre">Nombre</label>
+				<input
+					id="nombre"
+					type="text"
+					class="form-control"
+					name="nombre"
+					placeholder="Pedro, Enrique" />
+				<label for="telefono" class="form-label mt-3" name="telefono"
+					>Telefono</label
+				>
+				<input
+					id="telefono"
+					type="number"
+					class="form-control"
+					name="telefono"
+					minlength="6"
+					maxlength="10"
+					placeholder="0800-1234-5555" />
+				<label for="textarea" class="form-label mt-3" name="textarea"
+					>Tu Mensaje</label
+				>
+				<textarea
+					class="form-control mt-3"
+					name="textarea"
+					id="textarea"
+					rows="3"
+					placeholder="Escribí aca"></textarea>
+			</div>
+			<hr />
+			<div class="card" style="width: 18rem">
+				<div class="card-body">
+					<h5 class="my-1">José Peresini</h5>
+					<img
+						src="../Ejercicio/JR FRONT END - Peresini José I - Portada.png"
+						alt="Setup Skills/Programador"
+						class="card-img-bottom card-img-top mt-4" />
+					<p class="card-text">
+						Actualmente trabajo día a día en … <br />¿Eso querías saber? <br />
+						No, te cuento realmente. <br />
+						Reitero, mi nombre es José, trabajo día a día en mi evolución con
+						personas dentro y fuera de la empresa, presencialmente. <br />
+						Busco animar y alentar, ya sean clientes, compañeros y/o
+						supervisores para fomentar la confianza. <br />
+						No soy líder personalmente por que creo que se necesita más tiempo
+						en considerar los puntos fuertes de un individuo, que no tengo.
+						<br />
+						Siempre aprendo y emprendo los criterios de jefes y colegas para
+						guiar a mis pares nuevos con consejos y ayudar a mejorar.
+					</p>
+				</div>
+				<div class="card-footer">
+					<h5>Email</h5>
+					<span class="text-muted text-decoration-underline"
+						><a href="#">joseignacioperesini@gmail.com</a></span
+					>
+				</div>
+			</div>
+		</div>
+	</body>
+	<script
+		src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+		integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
+		crossorigin="anonymous"></script>
+	<script>
+		const myModal = document.getElementById("myModal");
+		const myInput = document.getElementById("myInput");
+
+		myModal.addEventListener("shown.bs.modal", () => {
+			myInput.focus();
+		});
+	</script>
+</html>
