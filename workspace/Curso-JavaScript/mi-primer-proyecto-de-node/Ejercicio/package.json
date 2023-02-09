@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio",
+  "version": "1.0.0",
+  "description": "este es mi primer ejercicio en el curso de javascript con open bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ejercicio-curso-javascript"
+  ],
+  "author": "José Peresini",
+  "license": "ISC"
+}
