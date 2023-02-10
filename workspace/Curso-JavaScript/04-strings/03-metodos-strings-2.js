@@ -20,7 +20,7 @@ console.log(str_1, " ", str_2);
 console.log(`${str_1} ${str_2}`);
 
 // eliminar espacios al inicio y al final
-let str_3 = "   soy un string con espacios al final   ";
+let str_3 = "   soy un string con espacios al principio y al final   ";
 console.log(str_3.length);
 // trim()
 console.log(str_3.trim().length);
